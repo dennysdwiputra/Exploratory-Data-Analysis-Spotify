@@ -3,8 +3,8 @@
 ![alt text](https://2.bp.blogspot.com/-TSq1Gg9Mmg0/Wn4EwuGHvZI/AAAAAAAADDc/4_yxUrhiIEsFPjMUa2SchkB2rV6b9GstACLcBGAs/s1600/Cara%2BUpload%2BJual%2Blagu%2BKe%2BSpotify%252C%2BiTunes%252C%2BJoox%252C%2BDeezer.jpg)
 
 > Spotify merupakan platform pemutar audio yang sangat diminati oleh masyakarat dunia, tidak terkecuali di Indonesia,setiap user mempunyai preferensi musik yang berbeda beda, dimulai dari yang umum adalah genre lagu yang mereka suka, saya merinci problem saya sebagai berikut :
->- 1. Bagaimana cara sebuah aplikasi bisa merekomendasi sebuah musik yang tepat pada user?
->- 2. Bagaimana cara sebuah aplikasi bisa merekomendasi agar user tertarik untuk mendengarkan musik diluar genre yang mereka sukai?
+> - Bagaimana cara sebuah aplikasi bisa merekomendasi sebuah musik yang tepat pada user?
+> - Bagaimana cara sebuah aplikasi bisa merekomendasi agar user tertarik untuk mendengarkan musik diluar genre yang mereka sukai?
 
 >Dari pertanyaan saya diatas soal problem tersebut, saya menemukan sebuah dataset yang sesuai untuk tujuan saya nantinya.
 Data yang saya temukan bersumber dari Kaggle.com
