@@ -8,4 +8,5 @@ Bagaimana Cara Merekomendasikan lagu besarkan kebiasaan user? (Dataset Spotify U
 Data yang saya temukan bersumber dari Kaggle.com
 
 > Dataset ini berisikan Daftar Nama Musik yang memuat element penting bagi saya yaitu **Genre** dan **Audio Features** (Beats Per Minute,  Energy, Danceability, Loudness, Liveness, Valance, Acousticness, Speechiness)
->Dimana Arti dari Nilai Audio Features ini adalah contoh Acousticness --> **Semakin tinggi** nilainya bahwa sebuah lagu semakin **akustik** tipe lagu ini.
+>Dimana Arti dari Nilai Audio Features ini adalah contoh Acousticness --> **Semakin tinggi** nilainya bahwa sebuah lagu semakin **akustik** lagu tersebut.
+.
